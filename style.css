@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.main-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    background: url("https://images.unsplash.com/reserve/D9xlw7UxTBqQw5sLf8cJ_reef%20insp-72.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    background-size: cover;
+    font-family: sans-serif;
+    
+}
+
+.heading{
+    font-size: 5.2rem;
+    word-wrap: normal;
+    text-align: center;
+    color: #740707;
+    text-shadow: 0 3px 5px rgba(0,0,0,.4);
+}
+
